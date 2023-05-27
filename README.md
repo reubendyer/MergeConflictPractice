@@ -1,3 +1,4 @@
 
+# MergeConflictPractice
 
-# second-branch
+# First Branch
